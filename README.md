@@ -1,2 +1,3 @@
-# java-client-server
-A simple client and server framework for use in Java applications
+# Java Client & Server framework
+Created for casual networking purposes.
+Find out more at the [project website](https://bwyap.github.io/https://bwyap.github.io/projects/java-client-server).
