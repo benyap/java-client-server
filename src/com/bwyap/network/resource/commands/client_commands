@@ -1,0 +1,8 @@
+help, 1, 2, help [command], Displays help. Enter the a command after 'help' to also see its usage.
+connect, 1, 1, connect, Attempts to open a connection to a server with the set address.
+connectip, 3, 3, connectip <ip> <port>, Attempts to open a connection to a server at the given address.
+disconnect, 1, 1, disconnect, Disconnects from the server.
+say, 2, 1024, say <message>, Sends a message to the server.
+address, 1, 3, address [ip] [port], View the current set ip address and port. Use arguments to set new ip address and port.
+name, 1, 2, name [new_name], View the current username of the client. Set a new name by using adding an argument.
+exit, 1, 1, exit, Exit the program.

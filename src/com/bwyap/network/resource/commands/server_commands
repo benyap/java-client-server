@@ -1,0 +1,7 @@
+help, 1, 2, help [command], Displays help. Enter the a command after 'help' to also see its usage.
+list, 1, 2, list [i], Lists all connected clients and their IDs. Use the argument 'i' to see extra info.
+say, 2, 1024, say <message>, Send a message to all clients.
+whisper, 3, 1024, whisper <clientID> <message>, Sends a message to a specified client.
+kick, 2, 1024, kick <clientID> [reason], Kicks a client from the server.
+kickall, 1, 1024, kick [reason], Kicks all clients from the server.
+exit, 1, 1, exit, Exit the program.

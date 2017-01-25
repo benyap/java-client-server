@@ -1,0 +1,4 @@
+help, 1, 2, help [command], Displays help. Enter the a command after 'help' to also see its usage.
+startserver, 1, 2, startserver [port], Starts a server. You may specify the port (default is 8080).
+exit, 1, 1, exit, Exit the program.
+server, 1, 1025, server <command> [arguments], Execute a server command. This will only work if a server is runninng.
